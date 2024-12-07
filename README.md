@@ -64,7 +64,7 @@ A trendline visual shows a significant increase in the number of titles released
 3. Applied a dark theme for a visually engaging design.
 
 
-![Screenshot 2024-12-08 004328](https://github.com/user-attachments/assets/1624eee5-0cd9-492f-b94e-0859941c382c)
+![Screenshot 2024-12-08 004328](https://github.com/user-attachments/assets/bffb7833-d0c2-4ad8-80bd-1a60df6cede2)
 
 ### **Interactivity**
 1. Added slicers for dynamic filtering by:
